@@ -1,3 +1,22 @@
 body{
-    background-color: aqua;
+font-family: "SUSE Mono", sans-serif;
+}
+p{
+    color: rgb(40, 228, 40);
+    /* Colore del testo */
+}
+/* Elemento con ID main paragraph */
+/* #main-paragraph{
+    color: red;
+} */
+/* Selettore che permette di selezionare tutti gli elementi HTML che abbiano questa classe */
+/* .main-paragraph{
+color: rgb(39, 123, 161);
+} */
+ .text-blue{
+    color: blue;
+ }
+ .text-large{
+font-size: 34px; 
+font-weight: 900;
 }
